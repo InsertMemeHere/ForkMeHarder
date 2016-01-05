@@ -68,7 +68,7 @@ boolean JumpCheck;
   void display(){
 
    
-    fill(#8E0976);
+    fill(#FF0000);
      rect(xPos, yPos, 30, 30);
 
  text(str(state),xPos, yPos);
